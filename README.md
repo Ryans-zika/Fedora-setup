@@ -1,5 +1,5 @@
 **My fedora setup.**
-## INSTALAÇÃO
+## installation
 ```
 cd Downloads/
 chmod +x Fedora.sh
