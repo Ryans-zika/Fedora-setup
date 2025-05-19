@@ -1,4 +1,4 @@
-**Setup do meu fedora para configurar o ambiente de automaticamente.**
+**My fedora setup.**
 ## INSTALAÇÃO
 ```
 cd Downloads/
