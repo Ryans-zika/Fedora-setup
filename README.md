@@ -1,4 +1,4 @@
-**My fedora setup.**
+**My script .sh for fedora setup.**
 ## installation
 ```
 cd Downloads/
